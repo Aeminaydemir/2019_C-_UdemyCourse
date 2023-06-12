@@ -1,0 +1,7 @@
+C:\Users\A.emin\source\repos\Csharpcourse\STrings\bin\Debug\STrings.exe.config
+C:\Users\A.emin\source\repos\Csharpcourse\STrings\bin\Debug\STrings.exe
+C:\Users\A.emin\source\repos\Csharpcourse\STrings\bin\Debug\STrings.pdb
+C:\Users\A.emin\source\repos\Csharpcourse\STrings\obj\Debug\STrings.csprojAssemblyReference.cache
+C:\Users\A.emin\source\repos\Csharpcourse\STrings\obj\Debug\STrings.csproj.CoreCompileInputs.cache
+C:\Users\A.emin\source\repos\Csharpcourse\STrings\obj\Debug\STrings.exe
+C:\Users\A.emin\source\repos\Csharpcourse\STrings\obj\Debug\STrings.pdb

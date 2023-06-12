@@ -1,0 +1,7 @@
+C:\Users\A.emin\source\repos\Csharpcourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\A.emin\source\repos\Csharpcourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\A.emin\source\repos\Csharpcourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\A.emin\source\repos\Csharpcourse\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\A.emin\source\repos\Csharpcourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\A.emin\source\repos\Csharpcourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\A.emin\source\repos\Csharpcourse\AbstractClasses\obj\Debug\AbstractClasses.pdb

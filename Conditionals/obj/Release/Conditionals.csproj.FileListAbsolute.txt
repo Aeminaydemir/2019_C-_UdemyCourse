@@ -1,0 +1,6 @@
+C:\Users\A.emin\source\repos\Csharpcourse\Conditionals\bin\Release\Conditionals.exe.config
+C:\Users\A.emin\source\repos\Csharpcourse\Conditionals\bin\Release\Conditionals.exe
+C:\Users\A.emin\source\repos\Csharpcourse\Conditionals\bin\Release\Conditionals.pdb
+C:\Users\A.emin\source\repos\Csharpcourse\Conditionals\obj\Release\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\A.emin\source\repos\Csharpcourse\Conditionals\obj\Release\Conditionals.exe
+C:\Users\A.emin\source\repos\Csharpcourse\Conditionals\obj\Release\Conditionals.pdb

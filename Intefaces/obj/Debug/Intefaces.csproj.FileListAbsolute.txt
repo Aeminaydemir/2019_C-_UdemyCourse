@@ -1,0 +1,7 @@
+C:\Users\A.emin\source\repos\Csharpcourse\Intefaces\bin\Debug\Intefaces.exe.config
+C:\Users\A.emin\source\repos\Csharpcourse\Intefaces\bin\Debug\Intefaces.exe
+C:\Users\A.emin\source\repos\Csharpcourse\Intefaces\bin\Debug\Intefaces.pdb
+C:\Users\A.emin\source\repos\Csharpcourse\Intefaces\obj\Debug\Intefaces.csprojAssemblyReference.cache
+C:\Users\A.emin\source\repos\Csharpcourse\Intefaces\obj\Debug\Intefaces.csproj.CoreCompileInputs.cache
+C:\Users\A.emin\source\repos\Csharpcourse\Intefaces\obj\Debug\Intefaces.exe
+C:\Users\A.emin\source\repos\Csharpcourse\Intefaces\obj\Debug\Intefaces.pdb

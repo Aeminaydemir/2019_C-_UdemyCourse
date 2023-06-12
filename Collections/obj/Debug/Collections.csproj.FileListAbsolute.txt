@@ -1,0 +1,7 @@
+C:\Users\A.emin\source\repos\Csharpcourse\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\A.emin\source\repos\Csharpcourse\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\A.emin\source\repos\Csharpcourse\Collections\bin\Debug\Collections.exe.config
+C:\Users\A.emin\source\repos\Csharpcourse\Collections\bin\Debug\Collections.exe
+C:\Users\A.emin\source\repos\Csharpcourse\Collections\bin\Debug\Collections.pdb
+C:\Users\A.emin\source\repos\Csharpcourse\Collections\obj\Debug\Collections.exe
+C:\Users\A.emin\source\repos\Csharpcourse\Collections\obj\Debug\Collections.pdb

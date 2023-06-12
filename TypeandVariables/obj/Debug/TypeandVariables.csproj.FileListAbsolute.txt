@@ -1,0 +1,7 @@
+C:\Users\A.emin\source\repos\Csharpcourse\TypeandVariables\bin\Debug\TypeandVariables.exe.config
+C:\Users\A.emin\source\repos\Csharpcourse\TypeandVariables\bin\Debug\TypeandVariables.exe
+C:\Users\A.emin\source\repos\Csharpcourse\TypeandVariables\bin\Debug\TypeandVariables.pdb
+C:\Users\A.emin\source\repos\Csharpcourse\TypeandVariables\obj\Debug\TypeandVariables.csprojAssemblyReference.cache
+C:\Users\A.emin\source\repos\Csharpcourse\TypeandVariables\obj\Debug\TypeandVariables.csproj.CoreCompileInputs.cache
+C:\Users\A.emin\source\repos\Csharpcourse\TypeandVariables\obj\Debug\TypeandVariables.exe
+C:\Users\A.emin\source\repos\Csharpcourse\TypeandVariables\obj\Debug\TypeandVariables.pdb

@@ -1,0 +1,14 @@
+C:\Users\A.emin\source\repos\Csharpcourse\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\A.emin\source\repos\Csharpcourse\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\A.emin\source\repos\Csharpcourse\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\A.emin\source\repos\Csharpcourse\ConsoleApp5\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\A.emin\source\repos\Csharpcourse\ConsoleApp5\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\A.emin\source\repos\Csharpcourse\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\A.emin\source\repos\Csharpcourse\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\AEA\source\repos\Csharpcourse\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\AEA\source\repos\Csharpcourse\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\AEA\source\repos\Csharpcourse\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+C:\Users\AEA\source\repos\Csharpcourse\ConsoleApp5\obj\Debug\Methods.csprojAssemblyReference.cache
+C:\Users\AEA\source\repos\Csharpcourse\ConsoleApp5\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\AEA\source\repos\Csharpcourse\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\AEA\source\repos\Csharpcourse\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
